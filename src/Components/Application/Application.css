@@ -1,0 +1,45 @@
+/* .Application{
+    display:flex;
+    flex-direction: column;
+} */
+.Application_about_you i , .Application_Jamming i{
+    color: blue;
+    padding: 1rem;  
+}
+.Application_about_you {
+   
+    width:10%;
+    margin-left: 20%;
+
+}
+.Application_Jamming{
+   
+    width:20%;
+    margin-left: 20%;
+}
+.Application_last_div{
+    display:flex;
+    border:2px solid rgb(36, 35, 35);
+    width:60%;
+    margin: 1rem;
+    padding:1rem;
+    margin-left: 20%;
+    border-radius: 20px;
+    background-color: rgb(15, 15, 15);
+}
+.Application_left_part{
+    padding:1rem;
+    margin:3rem;
+    width:40%;
+}
+.Application_left_part button{
+    padding:1rem;
+    margin:1rem;
+    border-radius: 30px;
+    font-size: large;
+    color: black;
+   
+}
+.Application_left_part i{
+    color: blue;
+}
